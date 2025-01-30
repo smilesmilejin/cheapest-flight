@@ -1,6 +1,6 @@
 # Cheapest Flight Live Code
 
-This repository is the classroom activity for the Graphs Pt. 1 Roundtable in Unit 4.
+This repository is the Live Code for the Graphs Pt. 2 Roundtable in Unit 4.
 
 ## Learning Goals 
 - Practice converting a list of edges into an adjacency list.
